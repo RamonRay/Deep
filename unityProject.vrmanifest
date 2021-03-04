@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.team78.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\demo\\Desktop\\BVW 2019\\Team62\\etc\\courses\\2019_semester_3\\bvw\\round5\\team78\\working\\Team78\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Team78 [Testing]"
+        }
+      }
+    }
+  ]
+}
